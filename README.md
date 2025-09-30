@@ -30,7 +30,7 @@ Je suis un développeuse web spécialisée en PHP/Symfony et Vuejs. Actuellement
 <a href="https://https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </span>
 
-Merci d'avoir visité mon profil GitHub, n'hésitez pas à explorer mes projets ! (<em>sont disponible publiquement quelques projets front-end</em>)
+Merci d'avoir visité mon profil GitHub, n'hésitez pas à explorer mes projets !
 <!--
 **nedjk/nedjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
