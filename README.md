@@ -2,7 +2,7 @@
 
 ### 🌟 À propos de moi
 
-Je suis un développeuse web spécialisée en PHP/Symfony et Vuejs. Actuellement en licence développeur d'applications d'entreprise DEVOPS, administrateur de système d'information, je suis à la recherche d'une entreprise pour mon alternance.
+Je suis une développeuse web spécialisée en PHP/Symfony et Vuejs. Actuellement en licence développeur d'applications d'entreprise DEVOPS, administrateur de système d'information, je suis à la recherche d'une entreprise pour mon alternance.
 
 ### 📚 Mes Compétences
 
